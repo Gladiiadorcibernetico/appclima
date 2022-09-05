@@ -1,0 +1,52 @@
+.rain{
+    background-color: #4a80c7;
+    width:70%;
+    height: 90%;
+    margin-top:5%;
+    
+   
+}
+.light{
+
+  background-color: #80a5d6;
+  width:70%;
+    height: 90%;
+    margin-top:5%;
+}
+.snow{
+    background-color: #e0a7df;
+    width:70%;
+    height: 90%;
+    margin-top:5%;
+}
+
+.overcast{
+    background-color: rgb(212, 212, 243);
+    width:70%;
+    height: 90%;
+    margin-top:5%;
+  
+}
+.broken{
+    background-color: rgb(212, 212, 243);
+    width:70%;
+    height: 90%;
+    margin-top:10px;
+}
+.hour{
+    position:absolute;
+    margin-top:13px;
+    margin-left:-10px;
+    
+}
+.temp{
+    margin-top: 5px;
+    color:rgb(182, 180, 180);
+    margin-left:-10px;
+}
+.separacion{
+width:1px;
+height:7px;
+background-color: black;
+
+}
